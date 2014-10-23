@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2014 reading list
-tagline: Supporting tagline
+tagline: 
 ---
 {% include JB/setup %}
 
