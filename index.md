@@ -5,6 +5,8 @@ tagline:
 ---
 {% include JB/setup %}
 
+List on Gists [https://gist.github.com/9509236.git]
+
 <script src="https://gist.github.com/paranoidxc/9509236.js"></script>
     
 ## Posts Lists
