@@ -1,13 +1,16 @@
 ---
 layout: page
-title: 2014 reading list
+title: Purpose of life
 tagline: 
 ---
 {% include JB/setup %}
 
-List on Gists [https://gist.github.com/9509236.git]
 
-<script src="https://gist.github.com/paranoidxc/9509236.js"></script>
+    take a break comma then thinking comma
+    Knowing what you’ve got comma
+    Knowing what you need comma
+    Knowing what you can do without dash
+    and then fucking the world exclamation
     
 ## Posts Lists
 
