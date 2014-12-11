@@ -31,7 +31,6 @@ tagline:
     
     Memo：US8, 和nb其他鞋比起来偏小
 
-
 #### ▼ sacuony grid 9000 木炭黄
 
     ![](http://iportfolio-domain.stor.sinaapp.com/200/d3ae3171940d3f11840d6c6d7fa90acf.jpg)
