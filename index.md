@@ -31,26 +31,10 @@ Memo：US8, 和nb其他鞋比起来偏小
 
 Memo: US9.0,US9.5,US8.5 和NB尺码一样
 
-#### ▼ saucony original shadow 灰红
-    
-![](http://iportfolio-domain.stor.sinaapp.com/200/c7df58d843f097a22da6c728bc706e6f.jpg)
-
-[http://2.taobao.com/item.htm?spm=2007.1000622.0.0.ULXrgW&id=38690037536](http://2.taobao.com/item.htm?spm=2007.1000622.0.0.ULXrgW&id=38690037536)
-
-Memo: US8,US8.5,US9 和NB尺码一样
-
-
-#### ▼ saucony original shadow 灰白
-
-![saucony original shadow 灰白](http://iportfolio-domain.stor.sinaapp.com/original/c180e17211e7d95800fea42f5d71b58a.jpg) 
-
-[http://2.taobao.com/item.htm?spm=2007.1000337.16.4.Qtz5H7&id=38897275247](http://2.taobao.com/item.htm?spm=2007.1000337.16.4.Qtz5H7&id=38897275247)
-
-Memo：US8
 
 #### ▼ saucony original shadow 红蓝
 
-![saucony original shadow 红蓝](http://iportfolio-domain.stor.sinaapp.com/original/240eb610e75bd1a5b2cd6dcc69fe4918.jpg) 
+![saucony original shadow 红蓝](http://img.taobaocdn.com/bao/uploaded/i3/T14LHCFTlXXXcnlpQ9_220x10000.jpg) 
 
 [http://2.taobao.com/item.htm?spm=2007.1000337.16.4.Qtz5H7&id=38946044701](http://2.taobao.com/item.htm?spm=2007.1000337.16.4.Qtz5H7&id=38946044701)
 
