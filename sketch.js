@@ -51,8 +51,6 @@ function draw() {
   textSize(15);
   textAlign(CENTER, CENTER);
   text("XiaoChuan.Paranoid", 0, 0);
-  textSize(10);
-  text("........ ... .....", 0, 20);
   pop();
 
   push();
