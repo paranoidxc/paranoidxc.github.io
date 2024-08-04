@@ -17,8 +17,12 @@ let langs = [
 ];
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
   angleMode(RADIANS);
+  newSetup();
+}
+
+function newSetup() {
+  createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
@@ -41,16 +45,21 @@ function draw() {
   let biteSize = PI / 16;
   let startAngle = biteSize * sin(frameCount * 0.1) + biteSize;
   let endAngle = TWO_PI - startAngle;
-  arc(width / 2 - 84, height - 132, 14, 14, startAngle, endAngle, PIE);
+  arc(width / 2 - 160, height - 113, 14, 14, startAngle, endAngle, PIE);
 
-  fill("white");
+  fill("red");
+  circle(width / 2 - 158, height - 117, 2);
+
+  fill("gray");
   // title
   push();
-  translate(width / 2, height - 130);
+  translate(width / 2, height - 112);
   textFont("Arial");
   textSize(15);
   textAlign(CENTER, CENTER);
-  text("XiaoChuan.Paranoid", 0, 0);
+  text("xiaochuan @ https://github.com/paranoidxc", 0, 0);
+  //textSize(10);
+  //text("........ ... .....", 0, 20);
   pop();
 
   push();
