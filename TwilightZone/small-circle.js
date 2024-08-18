@@ -44,7 +44,6 @@ class SmallCircle {
         if (mouseIsPressed) {
           if (distancePositionToMouse < this.size / 2) {
             this.state = SmallCircleState.DRAGGING_FROM_INSIDE;
-            console.log("DRAGGING_FROM_INSIDE");
           }
         }
         break;
@@ -55,7 +54,6 @@ class SmallCircle {
         if (mouseIsPressed) {
           if (distancePositionToMouse < this.size / 2) {
             this.state = SmallCircleState.DRAGGING_FROM_OUTSIDE;
-            console.log("DRAGGING_FROM_OUTSIDE");
           }
         }
         break;
@@ -131,7 +129,7 @@ class SmallCircle {
   }
 
   draw() {
-    this.size = this.MAX_SIZE + 5 * FACTOR * sin(millis() / 250 + this.offset);
+    this.size = this.MAX_SIZE + 6 * FACTOR * sin(millis() / 200 + this.offset);
 
     push();
     noStroke();
