@@ -1,0 +1,1 @@
+{"inputUnits":[4],"outputUnits":2,"inputs":{"0":{"dtype":"number","min":0,"max":0},"1":{"dtype":"number","min":0,"max":0},"2":{"dtype":"number","min":0,"max":0},"3":{"dtype":"number","min":0,"max":0}},"outputs":{"0":{"dtype":"string","min":0,"max":1,"uniqueValues":["flap","no flap"],"legend":{"flap":[1,0],"no flap":[0,1]}}},"isNormalized":false}
