@@ -3,6 +3,7 @@ function Firework() {
   this.firework = new Particle(random(width), height, this.hu, true);
   this.exploded = false;
   this.particles = [];
+  this.isPlayingSournd = false;
 
   this.done = function () {
     if (this.exploded && this.particles.length == 0) {
@@ -22,6 +23,11 @@ function Firework() {
           this.firework = null;
           this.exploded = true;
         }
+      }
+
+      if (!this.isPlayingSound) {
+        explosionSound.play();
+        this.isPlayingSound = true;
       }
     }
 
@@ -76,6 +82,13 @@ function Firework() {
           )
         );
       }
+    }
+
+    let rd = random(1);
+    if (rd < 0.2) {
+      blowSound.play();
+    } else if (rd < 0.5) {
+      blowImpactSound.play();
     }
   };
 
